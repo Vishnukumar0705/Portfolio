@@ -1,0 +1,439 @@
+@media screen and (max-width:992px) {}
+
+@media screen and (max-width:677px) {
+    .input {
+        width: 200% !important;
+    }
+
+    .formbtn {
+        margin-left: 5em !important;
+    }
+
+    .contact {
+        margin-top: 3em !important;
+    }
+   
+.map {
+    width: 100%;
+    height: 600%;
+}
+}
+
+@media screen and (max-width:767px) and (max-width:1023px) {
+    
+}
+
+@media screen and (max-width:1023px) {}
+
+
+body {
+    background-color: #0C0B0B;
+
+}
+
+.firstimg {
+    /* filter: drop-shadow(10px 8px 10px white); */
+    filter: drop-shadow(1px 1px 20px white);
+    border-radius: 34% 66% 68% 32% / 41% 37% 63% 59%;
+    border: #e9ecef 2px solid;
+
+}
+
+.top {
+    background: transparent;
+    backdrop-filter: blur(20px);
+
+}
+
+.navbar-brand {
+    font-family: 'Times New Roman', Times, serif;
+    color: #0dcaf0;
+}
+
+.hi {
+    color: #e9ecef;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.abouttext {
+    font-size: 1.1em;
+}
+
+.aboutimg {
+    margin-top: -3em;
+    border: #e9ecef 2px solid;
+    border-radius: 51% 49% 30% 70% / 63% 58% 42% 37%;
+    transition: 2s;
+}
+
+.aboutimg:hover {
+    box-shadow: 0 0 17px #DAA85A, 0 0 35px white, 0 0 70px #DAA85A
+}
+
+.name {
+    color: #e9ecef;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.position {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.text {
+    font-family: 'Times New Roman', Times, serif;
+    color: #e9ecef;
+}
+
+.back {
+    background-color: white;
+}
+
+.about {
+    margin-top: 0.9em;
+}
+
+.me {
+    color: #DAA85A;
+}
+
+li {
+    color: white;
+    list-style: none;
+}
+
+.btncv {
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    margin-left: 0rem;
+    margin-top: 2rem;
+    border: white 2px solid;
+    background: transparent;
+    border-radius: 5px;
+    font-size: 1.5em;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.btncv:hover {
+    border: #B530D9 1px solid;
+    color: black;
+    background: #B530D9;
+    box-shadow: 0 0 5px #B530D9, 0 0 25px #B530D9, 0 0 200px #B530D9;
+}
+
+.logo {
+    width: 120px;
+    height: 100px;
+    margin-left: -3%;
+}
+
+
+
+.nodejs {
+    border: #e9ecef 2px solid;
+    width: 150px;
+    padding: -5px;
+    margin-left: -20px;
+}
+
+.nodejs:hover {
+    background-color: white;
+    box-shadow: 0 0 1px white, 0 0 15px white, 0 0 5000px white;
+}
+.box .nodejs {
+    display: block;
+    border-radius: 13px;
+}
+.C {
+    border: #e9ecef 2px solid;
+    width: 100px;
+    padding: 20px;
+}
+.C:hover {
+    background-color: white;
+    /* border: black 1px solid; */
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 200px white;
+}
+
+.box {
+    transition: 0.75s;
+}
+
+.box .C {
+    display: block;
+    border-radius: 13px;
+    margin-left: 10PX;
+}
+
+.box:hover {
+    transform: scale(1.2);
+    z-index: 3;
+
+}
+.mysql{
+    border: #e9ecef 2px solid;
+    width: 150px;
+}
+.mysql:hover {
+    background-color: white;
+    /* border: black 1px solid; */
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 200px white;
+}
+.box .mysql {
+    display: block;
+    border-radius: 13px;
+}
+
+
+.js {
+    border: #e9ecef 2px solid;
+
+}
+
+.js:hover {
+    background-color: white;
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 200px white;
+
+}
+
+.box .js {
+    display: block;
+    border-radius: 13px;
+    margin-left: 10PX;
+}
+
+.fresh {
+    width: 10.5rem;
+    margin-left: 200px;
+    padding: 15px;
+    border: 3px #DAA85A solid;
+    border-radius: 20px;
+    color: #DAA85A;
+}
+
+.edu {
+    margin-top: 2.5em;
+    margin-left: 5px;
+}
+
+.education {
+    width: 80px;
+    height: 100px;
+    margin-left: 5px;
+}
+
+
+
+.formrow {
+    margin-left: 3em;
+}
+
+label {
+    color: #DAA85A;
+    font-size: 1.5em;
+    /* font-weight: bold; */
+}
+
+.input {
+    width: 80%;
+    height: 3.5em;
+    background-color: transparent;
+    background: transparent;
+    outline: none;
+    border: transparent;
+    border-bottom: 2px solid white;
+    color: white;
+    font-size: 1em;
+    padding-right: 1em;
+    margin-bottom: 1.5em;
+}
+
+.formbtn {
+    width: 7.6em;
+    font-size: 1.2em;
+    font-weight: bolder;
+    background-color: #B530D9;
+    border: transparent;
+    border-radius: 10px;
+    transition: 0.75s;
+    margin-left: 8em;
+}
+
+.formbtn:hover {
+    background-color: #DAA85A;
+    cursor: pointer;
+    /* filter: drop-shadow(2px 2px 5px white); */
+    transform: scale(1.1);
+    z-index: 2;
+}
+
+.location {
+    width: 40px;
+    height: 40px;
+}
+
+
+.phone {
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.linkedin {
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-decoration: none;
+    color: white;
+}
+
+.linkedin:hover {
+    text-decoration: underline;
+    color: #0dcaf0;
+}
+
+.add {
+    transition: 0.75s;
+}
+
+.add:hover {
+    transform: scale(1.1);
+    z-index: 2;
+    /* text-shadow: 0 0 5px white, 0 0 25px white, 0 0 200px white; */
+
+}
+
+.map {
+    width: 100%;
+    height: 450;
+}
+
+.login {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: #0dcaf0;
+}
+
+.link1 {
+    padding-top: 0.5em;
+}
+
+.insta {
+    width: 1.5em;
+    height: 1.3em;
+    margin-left: 0.5em;
+    margin-right: 0.2em;
+}
+
+
+
+.maincontainer {
+    /* text-shadow: 0 0 5px white, 0 0 25px white, 0 0 200px white; */
+    border: 2px #0dcaf0 solid;
+    border-radius: 10px;
+    margin-bottom: 5em;
+    width: 250px;
+    height: 250px;
+    float: left;
+    /* stack each div horizontally */
+}
+
+.degree {
+    margin-top: -2em;
+    margin-left: 3em;
+    border-radius: 10px;
+    width: 150px;
+    height: 105px;
+}
+
+.department {
+    font-size: 2.5em;
+    color: #DAA85A;
+    font-weight: bolder;
+    margin-bottom: -0em;
+}
+
+.year {
+    color: #0dcaf0;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.text{
+    color: white;
+}
+.school{
+    margin-top: -2em;
+    margin-left: 4.5em;
+    border-radius: 10px;
+    width: 100px;
+    height: 80px;
+}
+
+.back .department .year {
+    position: absolute;
+}
+
+.back p {
+
+    position: absolute;
+    top: 50px;
+    font-size: 15px;
+}
+
+.front .department .year {
+    position: absolute;
+    padding: 10px;
+    color: white;
+}
+
+/* style the maincontainer class with all child div's of class .front */
+.maincontainer>.front {
+    position: absolute;
+    transform: perspective(600px) rotateY(0deg);
+
+    width: 250px;
+    height: 250px;
+
+    backface-visibility: hidden;
+    transition: transform .5s linear 0s;
+}
+
+/* style the maincontainer class with all child div's of class .back */
+.maincontainer>.back {
+    position: absolute;
+    transform: perspective(600px) rotateY(180deg);
+    background: black;
+    color: #fff;
+    width: 246px;
+    height: 246px;
+    border-radius: 10px;
+    padding: 5px;
+    backface-visibility: hidden;
+    transition: transform .5s linear 0s;
+}
+
+.maincontainer:hover>.front {
+    transform: perspective(600px) rotateY(-180deg);
+}
+
+.maincontainer:hover>.back {
+    transform: perspective(600px) rotateY(0deg);
+}
