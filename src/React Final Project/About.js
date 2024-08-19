@@ -150,7 +150,7 @@ class About extends Component {
                                                     <div className="box">
                                                         <img src={mongo} className="img-fluid C animate__animated animate__bounceInRight " />
                                                     </div>
-                                                    <h3 className=" pt-4 text-info fs-5" style={{ "marginLeft": "25px" }}>GitHub</h3>
+                                                    <h3 className=" pt-4 text-info fs-5" style={{ "marginLeft": "25px" }}>Mongo DB</h3>
                                                 </div>
                                             </div>
                                         </div>
